@@ -1,2 +1,2 @@
 # Portfolio
-Stores all the work from the course that i did
+Main Branch Consists of my Power Bi Case Studies
